@@ -12,6 +12,13 @@ Instructions to use with vagrant and opendrone map to create 3d map
 - cd /vagrant_data/
 - git clone https://github.com/larssbr/odm_data_haltbrekken_run1
 
+IF you want to fetch another sett of images
+then:
+
+- cd /vagrant_data/
+- git clone {https://github.com/'FOLDER NAME'}
+
+
 3.) Clone the OpenDroneMap application repository https://github.com/OpenDroneMap/OpenDroneMap.git
 
 - sudo mkdir /odm_app
